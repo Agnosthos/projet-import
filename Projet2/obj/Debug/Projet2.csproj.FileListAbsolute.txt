@@ -1,0 +1,5 @@
+c:\users\33618\documents\visual studio 2012\Projects\Projet2\Projet2\bin\Debug\Projet2.exe.config
+C:\Users\33618\Documents\Visual Studio 2012\Projects\Projet2\Projet2\obj\Debug\Projet2.csprojResolveAssemblyReference.cache
+C:\Users\33618\Documents\Visual Studio 2012\Projects\Projet2\Projet2\obj\Debug\Projet2.Form1.resources
+C:\Users\33618\Documents\Visual Studio 2012\Projects\Projet2\Projet2\obj\Debug\Projet2.Properties.Resources.resources
+C:\Users\33618\Documents\Visual Studio 2012\Projects\Projet2\Projet2\obj\Debug\Projet2.csproj.GenerateResource.Cache
